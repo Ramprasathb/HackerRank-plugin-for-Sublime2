@@ -13,11 +13,6 @@ Steps to be followed :
 4. The output will be displayed on the console.
 
 
-Difficulties Faced :
-1. Understanding the working of Sublime plugins was challenging
-2. Tried to make the call without authentication, but couldn't get the response of number of testcases passed using the given submission_id. Hence have included the authentication. When making a Get request with the submission ID couldn't get the response as Status : true, it was always false.
-3. Given more time, I shall be able to understand more about it and try removing the authentication. 
-
 References : 
 1. Python Docs
 2. Hackerrank 
